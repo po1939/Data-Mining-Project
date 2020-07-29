@@ -1,0 +1,9 @@
+*consumer key
+*consumer key secret
+*oauth token
+*oauth token secret
+
+# line 1 is consumer key
+# line 2 is consumer key secret
+# line 3 is oauth token
+# line 4 is oauth token secret
